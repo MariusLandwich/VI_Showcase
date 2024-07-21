@@ -1,0 +1,2 @@
+Door_closed
+Door_open
